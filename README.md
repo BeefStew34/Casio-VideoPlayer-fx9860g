@@ -3,3 +3,5 @@ Compress Video files into a 128x64 black and white video format that can be play
 
 TODO:
 Upload Video Player Source <br>Repair and optimize code
+<br>Add speed options inside video file
+<br>Make pause button press not hold
