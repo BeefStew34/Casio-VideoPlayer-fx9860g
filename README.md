@@ -9,10 +9,10 @@ Or Download the CalculatorBuild Folder and move all the files inside into the ro
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHN6enZtaGg5bHNoa254aGE3cm5vMjE1bHZrNDd4ZWlzc2J3dHF6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e4bo0U05FkSUFnB02s/giphy.gif">
 
-<b>IMPORTANT</b>
-if you want to test this project on your calc you need to change the path at the top of FXVideoPlayer.h<br>
-by default it looks for the vid.cal file in the SDCard Dir or in the SDCard of the calc<br>
-If you uncomment the like it looks for the vid.cal file in the root of the calc which only works on calc builds
+<b>BUILD NOTICE</b>
+if you want to test this project on your FX9860g series calculator you need to change the path at the top of FXVideoPlayer.h<br>
+by default it looks for a vid.cal file in the SDCard directory or in the SDCard of the calculator<br>
+If you uncomment the line it looks for the vid.cal file in the root of the calc which only works on calculator builds
 
 The SDK often says "build failed"
 I suspect this is an issue with the project itself so please ignore an "build failed"s as it is lying
